@@ -3,7 +3,8 @@ body.login-pf {
 }
 
 body.login-pf::before {
-    background: url('../img/background.jpg') no-repeat center center fixed;
+    background: blue !important;
+    inset: 0;
     background-size: cover;
     content: '';
     position: fixed;
